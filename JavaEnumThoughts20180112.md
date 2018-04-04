@@ -172,6 +172,7 @@ public enum Color {
 
 > PS：Enum类是所有enum关键词所定义的类的基类，不支持直接继承该类
 
+#Empty Comment
 
 
 
